@@ -1,1 +1,9 @@
-# eds220-ca-thomas-fire
+# CA Thomas Fire
+
+## Goal
+
+## Visualization
+
+## Highlights
+
+## Data Citation
